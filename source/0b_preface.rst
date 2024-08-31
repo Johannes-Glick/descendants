@@ -1,5 +1,5 @@
-PREFACE
-=======
+Preface
+#######
 
 This book has been compiled to furnish a record of part of the Glick family. It is about the descendants of Johannas and Magdalena Glick who came to America on October 23, 1754 from Hanau, Germany. They came on the ship Snow Good Intent from Amsterdam.
 
@@ -48,17 +48,17 @@ In the 1981 Genealogy of the Glick Family the identification of the full page pi
 KEY INDEX TO KNOWN LIVING DESCENDANTS 1982
 ==========================================
 
-AI John George-Margaret Herr B5 Violet Wells (Mrs. W.W. ).
+A1 John George-Margaret Herr B5 Violet Wells (Mrs. W.W. ).
 ----------------------------------------------------------
 Page
 1
 
-AII Philip-Susannah Babarine.
+A2 Philip-Susannah Babarine.
 ------------------------------
 B6 Henry-Sarah Peters ...
 C8 Sarah-Henry Doner ....
 
-AV Johan Daniel-Christina Babarine.
+A5 Johan Daniel-Christina Babarine.
 -----------------------------------
 16
 
@@ -154,7 +154,7 @@ C5 Sylvanus P. - Mary McCallie ..
 47 & 21
 47
 
-AVII Peter-Mariah Barbara Kurtz ......
+A7 Peter-Mariah Barbara Kurtz ......
 --------------------------------------
 0
 49
@@ -251,7 +251,7 @@ D7 Malinda Z. - Francis Esiaman ...
 EXPLANATION OF THE CODE TO LOCATE YOUR FAMILY
 =============================================
 
-The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: AI John George, AII Philip, AIII David, AIV Henry, AV Johan Daniel, AVI Frederick, and AVII Peter.
+The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: A1 John George, A2 Philip, A3 David, A4 Henry, A5 Johan Daniel, A6 Frederick, and A7 Peter.
 
 B in front of a name, refers to children of the above, another generation. The numeral indicates the number of children in each family, in the order of their birth.
 
@@ -271,22 +271,20 @@ In following a line of Glicks, Eisamans, or Zwayers, the Glick name is not added
 
 When you locate your immediate family, write the page number in the front for quick reference, as there are over 500 living families listed and no easy index.
 
-George H. Glick gave us our early information in his 1918 publication. Sarah M. Glick made an outline from it and we have added later generations from close relatives. This book includes only a small portion of Glicks, compared to all who carry the Glick name. Some families are from two lines and could be listed twice, so you may be referred to the other line. Examples are Ada Newby under Enos Peter or Adam; Isaac Sylvester and Juliann under Lewis and Mary Swander or under "Pony" Jacob; Ora and Charles under Isaac Sylvester or under "Pony" Jacob's David; Elmer Glen and Juanita under Lewis and Jane Springstun or under Edmond's Arthur; Levi E. Zwayer under AII Anna Magdalena Hall or under Loretta Zwayer.
+George H. Glick gave us our early information in his 1918 publication. Sarah M. Glick made an outline from it and we have added later generations from close relatives. This book includes only a small portion of Glicks, compared to all who carry the Glick name. Some families are from two lines and could be listed twice, so you may be referred to the other line. Examples are Ada Newby under Enos Peter or Adam; Isaac Sylvester and Juliann under Lewis and Mary Swander or under "Pony" Jacob; Ora and Charles under Isaac Sylvester or under "Pony" Jacob's David; Elmer Glen and Juanita under Lewis and Jane Springstun or under Edmond's Arthur; Levi E. Zwayer under A2 Anna Magdalena Hall or under Loretta Zwayer.
 
 Any additions or corrections you may wish to make can be done on the blank side opposite. (on the back of the preceding page).
 
 ABBREVIATIONS USED
 ==================
 
-b born
-d died
-dau daughter
-cem cemetery
-twp township
-co county
-
-Berks Berks Co., Pa.
-Fair Fairfield Co., 0.
-Pick Pickaway Co., O.
-Henry Henry Co., 0.
-
+* b = born
+* d = died
+* dau = daughter
+* cem = cemetery
+* twp = township
+* co = county
+* Berks = Berks County, PA
+* Fair = Fairfield County, 0H
+* Pick = Pickaway County, OH
+* Henry = Henry County, 0H

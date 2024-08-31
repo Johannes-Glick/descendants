@@ -1,21 +1,24 @@
-.. Descendants of Johannes and Magdalena Herr Glick documentation master file, created by
-   sphinx-quickstart on Mon Aug 26 17:12:42 2024.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+#############################################################
+Descendants of Johannes and Magdalena Herr Glick 1749 to 1982
+#############################################################
 
-Descendants of Johannes and Magdalena Herr Glick
-==============================================================
+Compiled by:
 
-Add your content using ``reStructuredText`` syntax. See the
-`reStructuredText <https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html>`_
-documentation for details.
+* Sarah M. Glick
+
+  * RR 1, Box 85 Tower Hill, Illinois 62571
+
+* Gladys Glick Guthrie
+
+  * PO Box 186 Hanover, Indiana 47243
+
+Originally published 1982
 
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :caption: Table of Contents
+   :maxdepth: 1
 
-   0a_title
    0b_preface
    1_descendants
    A1_John_George_Glick
@@ -23,3 +26,5 @@ documentation for details.
    A3_David_Glick
    A4_Henry_Glick
    A5_Johann_Daniel_Glick
+   A6_George_Frederick_Glick
+   A7_Peter_Glick

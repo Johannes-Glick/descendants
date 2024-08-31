@@ -1,4 +1,7 @@
-AI John George b 24 Dec 1749 Hanau d 18 Dec 1816, farmer, m Mary Elizabeth Herr, Ist wife, ch Magdelena m Adam Guth, no children, Daniel George
+A1 - John George Glick's Descendents
+####################################
+
+A1 John George b 24 Dec 1749 Hanau d 18 Dec 1816, farmer, m Mary Elizabeth Herr, Ist wife, ch Magdelena m Adam Guth, no children, Daniel George
 
 B2 Daniel George b 6 Sept 1778 d 23 Feb. 1852, Salisbury Cem. m Eva C. Steininger b 21 Oct 1781 d 8 Oct 1857 ch Charles, Benjamin moved west, John Levi, Solomon, Lucy, Florence
 
