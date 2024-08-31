@@ -43,5 +43,5 @@ def linkcode_resolve(domain, info):
     if not info['module']:
         return None
     filename = info['module'].replace('.', '/')
-    return f"https://github.com/Johannes-Glick/descendants_book/blob/main/{filename}.py"
+    return f"https://github.com/Johannes-Glick/descendants/blob/main/{filename}.py"
 
