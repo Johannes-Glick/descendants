@@ -8,8 +8,10 @@ B3 George, b 1779. Became g.father of Hon. George W. Glick, m Christina Reidnaur
 C1 Isaac b 19 Sept 1803 d Dec 18/8, m Mary Vickers Sanders b 1800 in Maryland, 1850 census. ch George Washington, Calista, Charles Sherman, Dr. John S. Benjamin.
 D1 George Washington, b 4 July 1827 d 13 Apr 1911. Born Fremont, O. farm. Lawyer with Pres. Rutherford B. Hayes. Moved to Atchison, Kansas 1859. Ninth Gov. of Kansas 1883 -- 2 terms. City farmer of 640 acres of purebred Short Horn. Paying $1000 for an animal in 1900. Statue in Statuary Hall, Washington, D.C. Wife was Elizabeth Ryder of Massillon, O. m 1857. ch Frederick H., Jennie. Frederick H. was sec. to father while Gov.
 
-[[ PICTURE OF GEORGE WASHINGTON GLICK ]]
-George Washington Glick, Gov. of Kansas two terms beginning in 1883. Statuary Hall, Washington, D.C.
+
+.. figure:: GeorgeWashingtonGlick_statue.png
+
+   George Washington Glick, Gov. of Kansas two terms beginning in 1883. Statuary Hall, Washington, D.C.
 
 E1
 E2 Jennie m James W. Orr, b 14 Sept 1855, m in 1883 (of Reading, Hillsdale Co., Mich). Only child George Glick Orr b 1884 and d 21 July 1909 -- drowned while bathing near San Diego. Could read, write and speak 6 languages.
@@ -76,11 +78,11 @@ D1 Melissa Glick b 30 Aug 1863 d 26 Feb 1940, Ridge Cem. Shelby Co., didn't marr
 D2 Alvin or Alonzo b 1864 d 1895, Minot, N. Dak.
 D3 Henry d 12 Feb 1940, lived Alberta, Canada, didn't marry, but reared boy who cared for him.
 
+.. figure:: EdmondSarahGlick_family.png
 
-The Edmond and Sarah Disinger Glick family
-==========================================
-
-Seated left to right: Edmond, Melissa, Rufus, unidentified, Clara, unidentified, Sarah. Other children: Alvin, William, Charles, Henry, Della, Arthur, Sallie.
+   The Edmond and Sarah Disinger Glick family
+   Seated left to right: Edmond, Melissa, Rufus, unidentified, Clara, unidentified, Sarah. 
+   Other children: Alvin, William, Charles, Henry, Della, Arthur, Sallie.
 
 D4 William Sherman
 ------------------
@@ -792,8 +794,9 @@ D4 Rufus Glick
   - **m**: 4 Mar 1880
   - **ch**: Henry Franklin, Nellie Jane, Raymond, Harry Ralph, Bessie Matilda, Dean Seward, Mary Dorothea
 
-[[ PICTURE ]]
-Eva Lena and William E. Glick of Lakewood, Ill. Julia and Rufus Glick of Hope, Ind. Taken about 1922.
+.. figure:: EvaLenaWilliamGlick_JuliaRufusGlick.png
+
+   Eva Lena and William E. Glick of Lakewood, Ill. Julia and Rufus Glick of Hope, Ind. Taken about 1922.
 
 El Henry Franklin Glick
 -----------------------

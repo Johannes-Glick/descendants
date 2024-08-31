@@ -7,15 +7,15 @@ Descendants of Johannes and Magdalena Herr Glick
 
 Compiled by:
 
-* Sarah M. Glick
+* **Sarah M. Glick**
 
   * RR 1, Box 85 Tower Hill, Illinois 62571
 
-* Gladys Glick Guthrie
+* **Gladys Glick Guthrie**
 
   * PO Box 186 Hanover, Indiana 47243
 
-Originally published 1982
+Published July 1982
 
 
 .. toctree::
