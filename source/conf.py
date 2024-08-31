@@ -7,7 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Descendants of Johannes and Magdalena Herr Glick'
-copyright = '2024, Sarah M. Glick, Gladys Glick Guthrie'
+copyright = '1982, Sarah M. Glick, Gladys Glick Guthrie'
 author = 'Sarah M. Glick, Gladys Glick Guthrie'
 
 # -- General configuration ---------------------------------------------------
