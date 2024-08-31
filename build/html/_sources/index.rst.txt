@@ -22,7 +22,7 @@ Published July 1982
    :caption: Table of Contents
    :maxdepth: 1
 
-   0b_preface
+   0_preface
    1_descendants
    A1_John_George_Glick
    A2_Philip_Glick

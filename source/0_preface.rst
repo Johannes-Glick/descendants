@@ -160,7 +160,7 @@ A7 Peter-Mariah Barbara Kurtz ......
 49
 
 C2 David-Hester Foor .....
--------------------------
+--------------------------
 B8 "Pony" Jacob-Elizabeth Hoyman.
 ---------------------------------
 49
