@@ -11,13 +11,13 @@ Johannes Glick
   * **Died:** 13 Apr 1790, Albany Twp. Berks Co. Pa. Freidens church
   * **Children:**
 
-     1. John George
-     2. Philip
-     3. David (died young)
-     4. Henry
-     5. Johan Daniel
-     6. Frederick
-     7. Peter
+     1. :doc:`John George</A1_John_George_Glick>`
+     2. :doc:`Philip</A2_Philip_Glick>`
+     3. :doc:`David</A3_David_Glick>` (died young)
+     4. :doc:`Henry</A4_Henry_Glick>`
+     5. :doc:`Johan Daniel</A5_Johann_Daniel_Glick>`
+     6. :doc:`George Frederick</A6_George_Frederick_Glick>`
+     7. :doc:`Peter</A7_Peter_Glick>`
 
 Registered at Philadelphia 23 Oct 1754 probably with 3 children. 
 
