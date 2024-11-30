@@ -49,62 +49,106 @@ KEY INDEX TO KNOWN LIVING DESCENDANTS 1982
 ==========================================
 
 A1 :doc:`John George</A1_John_George_Glick>`-Margaret Herr
+
    B5 Violet Wells (Mrs. W.W. )
 
 A2 :doc:`Philip</A2_Philip_Glick>`-Susannah Babarine
+
    B6 Henry-Sarah Peters
+
       C8 Sarah-Henry Doner
+
       C9 Edmond-Sarah Disinger
+
    B7 Jonathan-Catherine Kerschner
+
          D4 Rufus-Julie Seward
+
    B8 Anna Magdalena-Henry Hall
+
       C11 Dora Belle Hall-Sullivan D. Zwayer
 
 A5 -:doc:`Johan Daniel</A5_Johann_Daniel_Glick>`-Christina Babarine
+
    B1 Solomon-Mary Spangler
+
          D3 Henry Slyvanus-Mary Elizabeth Smith
+
          D5 Enos Peter-Dicy Finkle
+
    B2 Daniel Jr. - Catherine Solt
+
          D1 Isaac Sylvester-Juliann Glick
+
             E1 Orlando-Anna Payne
+
             E2 George-Melissa Dutton
+
             E3 Levi J.- Ella Hildreth
+
             E5 Charles-Alice Brownlee
+
             E6 William-Eva Lena Francis
+
             E7 Ora Alice-Charles M. Glick
+
          D5 Sarah Glick-William H. Miller
+
          D7 Lewis Glick-Jane Springstun
+
    B2 Daniel Jr. - Eve Solt
+
       C4 Adam-Mary Louise Williamson
+
       C5 Sylvanus P. - Mary McCallie
 
 A7 :doc:`Peter</A7_Peter_Glick>`-Mariah Barbara Kurtz
+
    B8 "Pony" Jacob-Elizabeth Hoyman
+
       C2 David-Hester Foor
+
          D6 Joseph M. "Little Joe"-Alice Packard
+
          D7 Charles M. - Ora Alice Glick
+
       C4 Eliza Elizabeth-Solomon Eisaman
+
             E1 Vilas Eisaman-Jennie Maude Barton
+
             E2 Beryl Eisaman-Harry Sickmiller
+
             E4 Gale Eisaman-Bertha Crockett
+
             E5 Leah Eisaman-Charles Packard
+
             E6 Ada Ione Eisaman-Theodore Detmer
+
       C5 Noah B. Glick-Rebecca Lightbody
+
          D3 Joseph B. "Big Joe"-Fannie Nestleroad
+
       C7 Juliann-Isaac Sylvester Glick
+
       C8 Loretta-Benjamin Zwayer
+
          D1 Julie Z.- John Haffey
+
          D2 Mary Z.- William Skinner
+
          D3 Sullivan D. Z. - Dora Belle Hall
+
          D4 Benjamin Jr.- Mary Sprow
+
          D5 Sarah Della Z. - George Meyers
+
          D7 Malinda Z. - Francis Esiaman
 
 
 EXPLANATION OF THE CODE TO LOCATE YOUR FAMILY
 =============================================
 
-The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: A1 :doc:`John George</A1_John_George_Glick>`, A2 :doc:`Philip</A2_Philip_Glick>`, A3 :doc:`David</A3_David_Glick>` A4 :doc:`Henry</A4_Henry_Glick>`, A5 :doc:`Johan Daniel</A5_Johann_Daniel_Glick>`, A6 :doc:`Frederick</A6_George_Frederick_Glick>`, and A7 :doc:`Peter</A7_Peter_Glick>`.
+The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: A1 :doc:`John George</A1_John_George_Glick>`, A2 :doc:`Philip</A2_Philip_Glick>`, A3 :doc:`David</A3_David_Glick>`, A4 :doc:`Henry</A4_Henry_Glick>`, A5 :doc:`Johan Daniel</A5_Johann_Daniel_Glick>`, A6 :doc:`Frederick</A6_George_Frederick_Glick>`, and A7 :doc:`Peter</A7_Peter_Glick>`.
 
 B in front of a name, refers to children of the above, another generation. The numeral indicates the number of children in each family, in the order of their birth.
 
