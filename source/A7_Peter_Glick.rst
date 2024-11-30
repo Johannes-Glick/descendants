@@ -26,7 +26,7 @@ B2 Henry
 - **Born:** 1790
 - **Died:** Bellefontaine, Ohio
 - **Married:** Polly
-- **Details:** At 17 years came ahead of family, made path and built cabin for family and Philip's AII widow Susannah
+- **Details:** At 17 years came ahead of family, made path and built cabin for family and Philip's A2 widow Susannah
 - **Children:** Joseph, Peter, Philip, Polly
 
 C1 Joseph

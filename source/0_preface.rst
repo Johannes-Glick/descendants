@@ -3,7 +3,7 @@ Preface
 
 This book has been compiled to furnish a record of part of the Glick family. It is about the descendants of Johannas and Magdalena Glick who came to America on October 23, 1754 from Hanau, Germany. They came on the ship Snow Good Intent from Amsterdam.
 
-"Genealogy of the Glick Family," 1918, Indianapolis, Indiana, by George Hewey Glick (1852-1932) furnished much of the early ancestry. His book was reprinted in 1981 with some corrections and additional material by Gladys Glick Guthrie at Hanover, Indiana.
+"[Genealogy of the Glick Family](https://archive.org/details/genealogyofglick00glic/)," 1918, Indianapolis, Indiana, by George Hewey Glick (1852-1932) furnished much of the early ancestry. His book was reprinted in 1981 with some corrections and additional material by Gladys Glick Guthrie at Hanover, Indiana.
 
 At the time of reprinting it was apparent that more updating of records of descendants was desirable in order that these people might be identified in the family and that members of the family might understand their relationships more easily. This compilation carries records into 1982. At some later date further updating is indicated. Toward this, present day Glicks and relatives are encouraged to keep records that could be useful.
 
@@ -19,7 +19,7 @@ Correspondence with seemingly unrelated Glicks has not been included in this boo
 
 The 1918 book described the background for the exodus of great numbers of people, the Palatines, from Germany to America. Among them were Johannas and his wife and their young children. They arrived at Philadelphia to register and take the oath of allegiance before eventually settling in Berks County, Pennsylvania. Other children were born to them before their deaths in Pennsylvania.
 
-George remained in Pennsylvania, although his widow and several descendants moved farther into the new country. Johann Daniel went to Fairfield County, Ohio to enter government land in 1801 or 1802. Shortly after, he brought his family and urged his brothers Philip and Peter to come also. Philip died (1806) at Harrisburg, Pennsylvania on his way to bring his family. His widow and some of the family came with Peter when he brought his family. Daniel walked to the Pennsylvania line to meet relatives and was hauled back on a sled, never recovering, dying in 1806. Peter was ill on arrival in Ohio with his family and died in 1807. The migration continued through later generations into Indiana, Illinois and other places.
+:doc:`George</A1_John_George_Glick>` remained in Pennsylvania, although his widow and several descendants moved farther into the new country. :doc:`Johan Daniel</A5_Johann_Daniel_Glick>` went to Fairfield County, Ohio to enter government land in 1801 or 1802. Shortly after, he brought his family and urged his brothers Philip and Peter to come also. :doc:`Philip</A2_Philip_Glick>` died (1806) at Harrisburg, Pennsylvania on his way to bring his family. His widow and some of the family came with Peter when he brought his family. Daniel walked to the Pennsylvania line to meet relatives and was hauled back on a sled, never recovering, dying in 1806. :doc:`Peter</A7_Peter_Glick>` was ill on arrival in Ohio with his family and died in 1807. The migration continued through later generations into Indiana, Illinois and other places.
 
 Stories and incidents reflect the roles of families and individuals in the making of our country's history with their everyday lives:
 
@@ -29,17 +29,17 @@ Special thanks are due to Clyde E. Glick, brother of Gladys Glick Guthrie, for t
 
 Cross references on these families were studied and checked by Sarah M. (Mrs. Victor) Glick and Gladys Glick Guthrie, Victor and Gladys being first cousins descended from Philip, Daniel and Peter. Sarah has kept updates from the Glick Family Reunion at Shelbyville, Illinois and with Gladys has brought up-to-date two short lines of Philip's family. These had lived on farms adjacent to their grandfather's farm. They did the same for another of Philip's which attended the reunions.
 
-George. Much information was supplied by Violet (Mrs. W. W.) Wells of Walla Walla, Washington. Her research supplied the names of Johannas and Magdalena's parents and grandparents at Lohrhaupten Parish, Hanau, Hessen-Nassau Germany.
+:doc:`George</A1_John_George_Glick>`. Much information was supplied by Violet (Mrs. W. W.) Wells of Walla Walla, Washington. Her research supplied the names of Johannas and Magdalena's parents and grandparents at Lohrhaupten Parish, Hanau, Hessen-Nassau Germany.
 
-Philip. The grandchildren of Sarah Glick Doner and of Edmond Glick were researched by Vonnie Horsman of Shelbyville, Illinois and Lulu Horsman, Visalia, California. Children of Vivien T. Glick by Robert Glick, Torrence, California. The Rufus Glick family of Hope, Indiana by Gladys (Mrs. John Perry) Simmons and June (Mrs. Walter) Miller, Columbus, Indiana.
+:doc:`Philip</A2_Philip_Glick>`. The grandchildren of Sarah Glick Doner and of Edmond Glick were researched by Vonnie Horsman of Shelbyville, Illinois and Lulu Horsman, Visalia, California. Children of Vivien T. Glick by Robert Glick, Torrence, California. The Rufus Glick family of Hope, Indiana by Gladys (Mrs. John Perry) Simmons and June (Mrs. Walter) Miller, Columbus, Indiana.
 
-Daniel, from the first son, Solomon -- Information was gathered by Lloyd Henry Glick, Columbus, Indiana.
+:doc:`Daniel</A5_Johann_Daniel_Glick>`, from the first son, Solomon -- Information was gathered by Lloyd Henry Glick, Columbus, Indiana.
 
 From the Second son, Daniel, and his first wife, Catherine -- Sarah M. (Mrs. Victor) Glick, Tower Hill, Illinois; Gladys Glick (Mrs. Ned Guthrie, Hanover, Indiana; Mrs. Jane (Dr. Steve) Pollis, Warren, Ohio.
 
 From Adam, son of Daniel and his second wife, Eve -- Ada (Mrs. Mitchell) Glick, Edinburgh, Indiana, and Sylvanus by John C. Glick of Columbus, Indiana.
 
-Peter. Leah Eisaman (Mrs. Charles) Packard, Malinta, Ohio; Gerald Moore, Deshler, Ohio. Loretta Glick Zwayer family -- Ernestine (Mrs. Charles) Weisschadel, Mineral Springs, Arkansas. (Ernestine furnished much in cemetery records, old baptismal records, and traveling to Pennsylvania, Ohio, and Illinois to check previous records.)
+:doc:`Peter</A7_Peter_Glick>`. Leah Eisaman (Mrs. Charles) Packard, Malinta, Ohio; Gerald Moore, Deshler, Ohio. Loretta Glick Zwayer family -- Ernestine (Mrs. Charles) Weisschadel, Mineral Springs, Arkansas. (Ernestine furnished much in cemetery records, old baptismal records, and traveling to Pennsylvania, Ohio, and Illinois to check previous records.)
 
 Among those whom we wish to thank are Hanover College and its President John E. Horner, for use of equipment to produce the book; Jerry Brawner, Manager of the Mail Room, for printing, binding, and assembling; Walter Morrill, Director of Libraries, for making the stencils; Dianne (Mrs. Frank) Barnes, secretary to the Director of the Brown Campus Center, for the typing; Frank S. Baker, Prof. Emeritus of journalism, for his time and invaluable help with the pictures, arrangement of materials, technical advice, and coordinating the final processes.
 
@@ -48,210 +48,63 @@ In the 1981 Genealogy of the Glick Family the identification of the full page pi
 KEY INDEX TO KNOWN LIVING DESCENDANTS 1982
 ==========================================
 
-A1 John George-Margaret Herr B5 Violet Wells (Mrs. W.W. ).
-----------------------------------------------------------
-Page
-1
+A1 :doc:`John George</A1_John_George_Glick>`-Margaret Herr
+   B5 Violet Wells (Mrs. W.W. )
 
-A2 Philip-Susannah Babarine.
-------------------------------
-B6 Henry-Sarah Peters ...
-C8 Sarah-Henry Doner ....
+A2 :doc:`Philip</A2_Philip_Glick>`-Susannah Babarine
+   B6 Henry-Sarah Peters
+      C8 Sarah-Henry Doner
+      C9 Edmond-Sarah Disinger
+   B7 Jonathan-Catherine Kerschner
+         D4 Rufus-Julie Seward
+   B8 Anna Magdalena-Henry Hall
+      C11 Dora Belle Hall-Sullivan D. Zwayer
 
-A5 Johan Daniel-Christina Babarine.
------------------------------------
-16
+A5 -:doc:`Johan Daniel</A5_Johann_Daniel_Glick>`-Christina Babarine
+   B1 Solomon-Mary Spangler
+         D3 Henry Slyvanus-Mary Elizabeth Smith
+         D5 Enos Peter-Dicy Finkle
+   B2 Daniel Jr. - Catherine Solt
+         D1 Isaac Sylvester-Juliann Glick
+            E1 Orlando-Anna Payne
+            E2 George-Melissa Dutton
+            E3 Levi J.- Ella Hildreth
+            E5 Charles-Alice Brownlee
+            E6 William-Eva Lena Francis
+            E7 Ora Alice-Charles M. Glick
+         D5 Sarah Glick-William H. Miller
+         D7 Lewis Glick-Jane Springstun
+   B2 Daniel Jr. - Eve Solt
+      C4 Adam-Mary Louise Williamson
+      C5 Sylvanus P. - Mary McCallie
 
-Bl Solomon-Mary Spangler .....
-------------------------------
-16
-
-D3 Henry Slyvanus-Mary Elizabeth Smith.
----------------------------------------
-17
-
-D5 Enos Peter-Dicy Finkle .. .
-------------------------------
-21 & 47
-
-B2 Daniel Jr. - Catherine Solt ....
------------------------------------
-25
-
-Dl Isaac Sylvester-Juliann Glick,
----------------------------------
-0
-0
-27 & 60
-
-El Orlando-Anna Payne. ...
---------------------------
-E2 George-Melissa Dutton .. .
-0
-30
-
-E3 Levi J .- Ella Hildreth ..
------------------------------
-0 0
-3
-5
-5
-
-C9 Edmond-Sarah Disinger ..
----------------------------
-6
-
-B7 Jonathan-Catherine Kerschner.
---------------------------------
-10
-
-D4 Rufus-Julie Seward ... .
----------------------------
-10
-
-B8 Anna Magdalena-Henry Hall ...
---------------------------------
-15-62
-
-C11 Dora Belle Hall-Sullivan D. Zwayer.
----------------------------------------
-15-62
-28
-
-D5 Sarah Glick-William H. Miller.
----------------------------------
-43
-0
-
-B2 Daniel Jr. - Eve Solt
-------------------------
-33
-
-E5 Charles-Alice Brownlee ..
-----------------------------
-35
-
-E6 William-Eva Lena Francis.
-----------------------------
-0
-37
-
-E7 Ora Alice-Charles M. Glick.
-------------------------------
-39 & 53
-
-D7 Lewis Glick-Jane Springstun.
--------------------------------
-O
-0
-. . .
-45-6
-
-C4 Adam-Mary Louise Williamson
-------------------------------
-C5 Sylvanus P. - Mary McCallie ..
----------------------------------
-47 & 21
-47
-
-A7 Peter-Mariah Barbara Kurtz ......
---------------------------------------
-0
-49
-
-C2 David-Hester Foor .....
---------------------------
-B8 "Pony" Jacob-Elizabeth Hoyman.
----------------------------------
-49
-
-D6 Joseph M. "Little Joe"-Alice Packard.
-----------------------------------------
-52
-
-D3 Joseph B. "Big Joe"-Fannie Nestleroad.
------------------------------------------
-0
-59
-
-C7 Juliann-Isaac Sylvester Glick.
----------------------------------
-60 & 27
-
-C8 Loretta-Benjamin Zwayer ..
------------------------------
-Dl Julie Z .- John Haffey. . . . . . . .
-----------------------------------------
-0
-60
-
-D2 Mary Z .- William Skinner. ...
----------------------------------
-0
-51
-
-D7 Charles M. - Ora Alice Glick.
---------------------------------
-. . .
-0
-39 & 52
-
-C4 Eliza Elizabeth-Solomon Eisaman.
------------------------------------
-53
-
-El Vilas Eisaman-Jennie Maude Barton.
--------------------------------------
-0
-54
-
-E2 Beryl Eisaman-Harry Sickmiller.
-----------------------------------
-55
-
-E4 Gale Eisaman-Bertha Crockett.
---------------------------------
-56
-
-E5 Leah Eisaman-Charles Packard.
---------------------------------
-56
-
-E6 Ada Ione Eisaman-Theodore Detmer.
-------------------------------------
-0
-57
-
-C5 Noah B. Glick-Rebecca Lightbody.
------------------------------------
-58
-60
-
-D3 Sullivan D. Z. - Dora Belle Hall
------------------------------------
-0 0
-62
-
-D4 Benjamin Jr .- Mary Sprow. . . . . o . o . 0 0
-------------------------------------------------
-0
-62 & 15
-66
-
-D5 Sarah Della Z. - George Meyers . . .
----------------------------------------
-0 .
-66
-
-D7 Malinda Z. - Francis Esiaman ...
------------------------------------
-66
+A7 :doc:`Peter</A7_Peter_Glick>`-Mariah Barbara Kurtz
+   B8 "Pony" Jacob-Elizabeth Hoyman
+      C2 David-Hester Foor
+         D6 Joseph M. "Little Joe"-Alice Packard
+         D7 Charles M. - Ora Alice Glick
+      C4 Eliza Elizabeth-Solomon Eisaman
+            E1 Vilas Eisaman-Jennie Maude Barton
+            E2 Beryl Eisaman-Harry Sickmiller
+            E4 Gale Eisaman-Bertha Crockett
+            E5 Leah Eisaman-Charles Packard
+            E6 Ada Ione Eisaman-Theodore Detmer
+      C5 Noah B. Glick-Rebecca Lightbody
+         D3 Joseph B. "Big Joe"-Fannie Nestleroad
+      C7 Juliann-Isaac Sylvester Glick
+      C8 Loretta-Benjamin Zwayer
+         D1 Julie Z.- John Haffey
+         D2 Mary Z.- William Skinner
+         D3 Sullivan D. Z. - Dora Belle Hall
+         D4 Benjamin Jr.- Mary Sprow
+         D5 Sarah Della Z. - George Meyers
+         D7 Malinda Z. - Francis Esiaman
 
 
 EXPLANATION OF THE CODE TO LOCATE YOUR FAMILY
 =============================================
 
-The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: A1 John George, A2 Philip, A3 David, A4 Henry, A5 Johan Daniel, A6 Frederick, and A7 Peter.
+The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: A1 :doc:`John George</A1_John_George_Glick>`, A2 :doc:`Philip</A2_Philip_Glick>`, A3 ,:doc:`David</A3_David_Glick>` A4 :doc:`Henry</A4_Henry_Glick>`, A5 :doc:`Johan Daniel</A5_Johann_Daniel_Glick>`, A6 :doc:`Frederick</A6_George_Frederick_Glick>`, and A7 :doc:`Peter</A7_Peter_Glick>`.
 
 B in front of a name, refers to children of the above, another generation. The numeral indicates the number of children in each family, in the order of their birth.
 

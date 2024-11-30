@@ -5,11 +5,11 @@ A5 - Johann Daniel Glick's Descendents
 - **witnesses**: Johannes and Anna Magdalena Gluck
 - **sponsored by**: Maria and Elizabeth Mindelsin
 
-Daniel came to Fair Co., O. 1801 or 1802 for government land claim. In 1803 or 1804 he brought his family and Mary, dau of AVII and husband John Ritter.
+Daniel came to Fair Co., O. 1801 or 1802 for government land claim. In 1803 or 1804 he brought his family and Mary, dau of A7 and husband John Ritter.
 
 - **b**: 11 June 1758
 - **d**: 1806, Salem or Glick Cem., Fair Co. O.
-- **m**: Christina Babarine, sister of AII wife Susannah
+- **m**: Christina Babarine, sister of A2 wife Susannah
 - **ch**: Solomon, Daniel Jr., Sarah, Catherine, Benjamin and Jacob died young.
 
 B1 Solomon
@@ -29,7 +29,7 @@ C1 Jesse
 - **b**: 1815 Pick Co.
 - **d**: 1895 Enon Cem Clay Twp, Barth Co., Ind.
 - **m**: Polly Glick
-  - **b**: 1820 (dau of AVII 1st son Henry and Polly)
+  - **b**: 1820 (dau of A7 1st son Henry and Polly)
   - **d**: 1895
 
 C2 Delilah
@@ -39,7 +39,7 @@ C2 Delilah
 - **d**: 7 July 1897
 - **m**: Joseph Glick
   - **b**: 2 Feb 1812
-  - **d**: 30 June 1895 (son of AVII son Henry and Polly), sister and brother m sister and brother.
+  - **d**: 30 June 1895 (son of A7 son Henry and Polly), sister and brother m sister and brother.
   - **m**: 4 Sept 1834
 - **ch**: Naomi, Uriah, Henry, Solomon, Enos, Margaret, Anna Mary.
 
@@ -48,7 +48,7 @@ D1 Naomi Lucretia
 -----------------
 - b 20 Nov 1836
 - d 30 Mar 1916
-- m Jonathan Smith, b 25 Apr 1831 d 11 Nov 1908 (grandson of AII dau Anna Magdalena Hall's dau Christina Hall Smith). Garland Brook Cem.
+- m Jonathan Smith, b 25 Apr 1831 d 11 Nov 1908 (grandson of A2 dau Anna Magdalena Hall's dau Christina Hall Smith). Garland Brook Cem.
 - m on 17 Dec 1854.
 - ch Emma A., Clara R., Homar, Lillie F., Anna M., Nora, Pearl, Stella, Bertha, Vesta.
 
@@ -56,7 +56,7 @@ E1 Emma Alice Smith
 -------------------
 - b 3 Nov 1855
 - d 28 May 1888
-- m Lyman Biglow Boyer b 10 Nov 1848 (son of AV 2nd son and his 2nd wife Eve Solt [Betsy]).
+- m Lyman Biglow Boyer b 10 Nov 1848 (son of A5 2nd son and his 2nd wife Eve Solt [Betsy]).
 - m on 5 Mar 1874.
 - ch Letha, Della m Frank Bannell, Kate m Earl Finkel
 
@@ -85,7 +85,7 @@ D3 Henry Sylvanus Glick
 -----------------------
 - b 24 Jan 1842
 - d 6 May 1891
-- m Mary Elizabeth Smith b 5 Sept 1841 and d 9 Feb 1907 (from AII Magdalena Glick Hall dau Christina m Jacob Smith).
+- m Mary Elizabeth Smith b 5 Sept 1841 and d 9 Feb 1907 (from A2 Magdalena Glick Hall dau Christina m Jacob Smith).
 - m on 9 Sept 1862.
 - ch Walter, Jacob, Joseph, Christina, David, Henry, Delilah, Mary.
 
@@ -1143,7 +1143,7 @@ Their children:
 - m Mary Swander
   - b 17 July 1816
   - d 3 July 1898, Glenwood Cem., Shelbyville, Ill.
-  - Mary dau of Frederick and Eve Glick Swander. Eve dau of AII Philip.
+  - Mary dau of Frederick and Eve Glick Swander. Eve dau of A2 Philip.
   - m on 2 Aug 1835
 
 Their children:
@@ -3075,7 +3075,7 @@ E1 Elizabeth
 B3 Sarah Glick
 --------------
 - **Born:** ca 1790
-- **Married:** Jacob Glick (b. 1792, d. 15 Feb 1814, son of AII and Susannah)
+- **Married:** Jacob Glick (b. 1792, d. 15 Feb 1814, son of A2 and Susannah)
 - **Children:** 5 children, all died as infants
 
 B4 Catherine Glick

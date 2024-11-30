@@ -1,3 +1,5 @@
+Johannas Glick b Germany 1715 d 1783, Magdalene Herr b Germany 1724 d 1790, 2nd Son A2 Philip
+
 A2 - Philip Glick's Descendents
 ###############################
 
@@ -21,7 +23,7 @@ D3 Charles Sherman went Kansas 1859 m Lucretia Field.
 D4 Dr. John S. Glick went Kansas 1959 m Reatha
 D5 Benjamin m Sarah, ch Jessie.
 
-B4 Jacob Glick b 1792 d 13 Dec 1838, m Sarah Glick, dau. of AV Daniel, 6 children, died infants.
+B4 Jacob Glick b 1792 d 13 Dec 1838, m Sarah Glick, dau. of A5 Daniel, 6 children, died infants.
 B6 Henry b 10 Oct 1796, d 9 Mar 1871, Ricker Hill Cem. m Sarah Peters, b 10 Dec 1796 d 24 Feb 1889, m in 1818. ch Eliza, Phoebe [no record], Catherine and Abraham [twins], Henry J., Enos, Erasmas, Sarah, Edmond, Zeno and 6 more.
 
 C1 Eliza b 15 Mar 1822 d 4 May 1913 m Jesse Leist on 10 Mar 1842.
@@ -1483,7 +1485,7 @@ C4 Caroline Glick
 - **m**: Cozzam Zwayer
   - **d**: 1900
   - **brother**: of Benjamin who married Loretta
-  - **AVII son**: of "Pony" Jacob and Ernestine Zwayer Weisschadel is ggg dau.
+  - **A7 son**: of "Pony" Jacob and Ernestine Zwayer Weisschadel is ggg dau.
   - **Loretta's brother**: Noah was an apprentice blacksmith to Cozzam Zwayer before Cozzam came to Barth. Co. Ind. 1846, Garland Brook
 
 C5 Cem. ch Aaron, Jonathan, Catherine and Mary (twins), Sarah. Sarah Glick, m Jacob Solt in Barth. Co.
@@ -1506,7 +1508,7 @@ D3 Lydia m Levi Runkle, 16 Sept 1855
 
 D4 Martha m
 
-D5 Andrew, b 1823, d 11 Dec 1882, m Mary Ann Spangler b 1828 d 1921, mt on 3 Feb 1845. Great grandparents of Ernestine Zwayer Weisschadel. Mary Ann was daughter of Jesse Spangler and Lydia Gensul and he was the sister of Mary Spangler who married Solomon Glick, 1st son of AV.
+D5 Andrew, b 1823, d 11 Dec 1882, m Mary Ann Spangler b 1828 d 1921, mt on 3 Feb 1845. Great grandparents of Ernestine Zwayer Weisschadel. Mary Ann was daughter of Jesse Spangler and Lydia Gensul and he was the sister of Mary Spangler who married Solomon Glick, 1st son of A5.
 
 El
 
@@ -1604,5 +1606,5 @@ B13 Christina Glick
 
 No more records except from the Land Transaction of Philip on 12 Feb 1814 signed by Daniel Glick. Probably more children.
 
-Last of Philip's AII Family.
+Last of Philip's A2 Family.
 
