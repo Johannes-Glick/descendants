@@ -3,7 +3,7 @@ Preface
 
 This book has been compiled to furnish a record of part of the Glick family. It is about the descendants of Johannas and Magdalena Glick who came to America on October 23, 1754 from Hanau, Germany. They came on the ship Snow Good Intent from Amsterdam.
 
-"[Genealogy of the Glick Family](https://archive.org/details/genealogyofglick00glic/)," 1918, Indianapolis, Indiana, by George Hewey Glick (1852-1932) furnished much of the early ancestry. His book was reprinted in 1981 with some corrections and additional material by Gladys Glick Guthrie at Hanover, Indiana.
+"`Genealogy of the Glick Family <https://archive.org/details/genealogyofglick00glic/>`_," 1918, Indianapolis, Indiana, by George Hewey Glick (1852-1932) furnished much of the early ancestry. His book was reprinted in 1981 with some corrections and additional material by Gladys Glick Guthrie at Hanover, Indiana.
 
 At the time of reprinting it was apparent that more updating of records of descendants was desirable in order that these people might be identified in the family and that members of the family might understand their relationships more easily. This compilation carries records into 1982. At some later date further updating is indicated. Toward this, present day Glicks and relatives are encouraged to keep records that could be useful.
 
@@ -104,7 +104,7 @@ A7 :doc:`Peter</A7_Peter_Glick>`-Mariah Barbara Kurtz
 EXPLANATION OF THE CODE TO LOCATE YOUR FAMILY
 =============================================
 
-The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: A1 :doc:`John George</A1_John_George_Glick>`, A2 :doc:`Philip</A2_Philip_Glick>`, A3 ,:doc:`David</A3_David_Glick>` A4 :doc:`Henry</A4_Henry_Glick>`, A5 :doc:`Johan Daniel</A5_Johann_Daniel_Glick>`, A6 :doc:`Frederick</A6_George_Frederick_Glick>`, and A7 :doc:`Peter</A7_Peter_Glick>`.
+The letter A denotes the seven sons of Johannes and Magdalena Glick, the Roman numeral showing the order of their birth: A1 :doc:`John George</A1_John_George_Glick>`, A2 :doc:`Philip</A2_Philip_Glick>`, A3 :doc:`David</A3_David_Glick>` A4 :doc:`Henry</A4_Henry_Glick>`, A5 :doc:`Johan Daniel</A5_Johann_Daniel_Glick>`, A6 :doc:`Frederick</A6_George_Frederick_Glick>`, and A7 :doc:`Peter</A7_Peter_Glick>`.
 
 B in front of a name, refers to children of the above, another generation. The numeral indicates the number of children in each family, in the order of their birth.
 
